@@ -27,21 +27,23 @@ body {
 	text-align: center;
 	font-weight: bold;
 	color:#FF8900;
+	padding-top: 120px;
+	padding-bottom: 180px;
 }
 .jumbotron h1 {
 	font-size: 100px;
 }
 .jumbotron p {
-	font-size: 50px;
+	font-size: 100px;
 }
 .second {
 	font-family: 'helvetica neue';
 	text-align: center;
 	font-weight: bold;
 	color:#FF8900;
-	padding-right: 150px;
-	padding-left: 150px;
-	padding-bottom: 450px;
+	padding-right: 220px;
+	padding-left: 220px;
+	padding-bottom: 100px;
 }
 .content img {
 	display: block;
@@ -52,12 +54,13 @@ body {
 	text-align: center;
 	font-weight: bold;
 	color:#FF8900;
-	padding-right: 150px;
-	padding-left: 150px;
+	padding-right: 220px;
+	padding-left: 220px;
 	padding-top: 80px;
 }
-.danish h3 {
+.reference h3 {
 	font-family: 'helvetica neue';
+	font-size: 12px;
 	text-align: center;
 	font-weight: bold;
 	color:#FF8900;
