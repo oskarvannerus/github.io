@@ -53,3 +53,9 @@ body {
 	font-weight: bold;
 	color:#FF8900;
 }
+.danes {
+	display: block;
+	padding-left: 500px;
+	padding-right: 500px;
+	padding-top: 100px;
+}
