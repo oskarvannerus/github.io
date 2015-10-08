@@ -67,7 +67,9 @@ body {
 }
 .danes {
 	display: block;
-	padding-left: 500px;
-	padding-right: 500px;
 	padding-top: 100px;
+}
+.danes iframe {
+	display: block;
+	margin: 0 auto;
 }
