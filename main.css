@@ -1,8 +1,9 @@
 body {
-	background-color: #FF4E01;
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
 }
 .nav{
-	border:4px solid #000000;
+	border:4px solid #FF8900;
 	border-width:4px 0;
 	list-style:none;
 	margin:0;
@@ -10,7 +11,7 @@ body {
 	text-align:center;
 }
 .nav a {
-	color:#000000;
+	color:#FF8900;
 	font-size: 20px;
 	font-family: 'helvetica neue';
 	font-weight: bold;
@@ -25,10 +26,30 @@ body {
 	font-family: 'helvetica neue';
 	text-align: center;
 	font-weight: bold;
+	color:#FF8900;
 }
 .jumbotron h1 {
 	font-size: 100px;
 }
 .jumbotron p {
 	font-size: 50px;
+}
+.second {
+	font-family: 'helvetica neue';
+	text-align: center;
+	font-weight: bold;
+	color:#FF8900;
+	padding-right: 150px;
+	padding-left: 150px;
+	padding-bottom: 500px;
+}
+.content img {
+	display: block;
+	margin: 0 auto;
+}
+.danish h3 {
+	font-family: 'helvetica neue';
+	text-align: center;
+	font-weight: bold;
+	color:#FF8900;
 }
